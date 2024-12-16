@@ -1,0 +1,4 @@
+.shop-space-row {
+  display: flex;
+  flex-wrap: wrap;
+}

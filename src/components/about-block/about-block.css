@@ -1,0 +1,84 @@
+.about-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.about-block-start {
+  display: flex;
+  align-items: center;
+}
+.about-block-num {
+  width: 95px;
+  color: #202733;
+  font-family: "K2D", sans-serif;
+  font-size: 140px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.about-block-text {
+  color: #000;
+  font-family: "K2D", sans-serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 128%;
+  letter-spacing: 1.69px;
+  max-width: 450px;
+  width: 100%;
+  margin-left: 69px;
+}
+.about-block-text p {
+  height: 135px;
+}
+.about-block-item {
+  border: 2px solid #edb021;
+  max-width: 325px;
+  width: 100%;
+  border-radius: 9.831px;
+  margin-left: 194px;
+  padding: 0 34px;
+}
+.about-block-wr {
+  width: 100%;
+}
+.about-block-item-icon {
+  padding-top: 15px;
+}
+.about-block-item-price {
+  color: #edb021;
+  text-align: center;
+  font-family: "K2D", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 25px;
+  text-align: right;
+}
+.about-block-item-preority {
+  color: #202733;
+  text-align: center;
+  font-family: K2D;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 19px;
+  text-align: left;
+}
+.about-block-item-text {
+  color: #000;
+  text-align: justify;
+  font-family: K2D;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 128%;
+  letter-spacing: -1.2px;
+  margin-top: 6px;
+  opacity: 0.5;
+
+  padding-bottom: 79px;
+}
