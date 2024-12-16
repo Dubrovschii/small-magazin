@@ -164,7 +164,6 @@ class App extends Component {
 
             <Route path="/" element={<Home datashop={this.state.datashop} />} />
             <Route path="/shop" element={<Shop onUpdateSearch={this.onUpdateSearch} />} />
-            <Route path="/media" element={<Media />} />
             <Route path="/more" element={<More datashop={this.state.datashop} />} />
             <Route path="/contact" element={<Contact />} />
 
