@@ -1,7 +1,7 @@
 
 import { Component } from "react";
 import Header from "../../components/header/header";
-import ShopList from "../../components/shopList/shoplist"; // Используйте импорт компонента ShopList
+import ShopList from "../../components/shopList/shoplist";
 import FilterTabs from "../../components/fitertabs/filtertabs";
 import Footer from "../../components/footer/footer";
 import ArrowBack from "../../components/arrow-back/arrowback";
